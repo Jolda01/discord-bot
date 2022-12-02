@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+body{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.main{
+    margin: 2%;
+    padding: 2%;
+}
+.paragraph1{
+    
+    padding-bottom: 2%;
+}
+.paragraph1-title{
+    
+    color: black ;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    font-size: 540%;
+}
+.paragraph1-contenu{
+    
+    font-size: 200%;
+}
